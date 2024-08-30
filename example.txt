@@ -1,3 +1,11 @@
 example.txt
 
 this is just an example file to demonstrate committing and pushing to remote
+
+here is another line - the affect heuristic 
+
+we also must remember the availability heuristic 
+
+and the affect heuristics
+
+another line of meaningless text
