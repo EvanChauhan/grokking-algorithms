@@ -1,0 +1,3 @@
+example.txt
+
+this is just an example file to demonstrate committing and pushing to remote
